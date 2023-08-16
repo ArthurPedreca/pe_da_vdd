@@ -386,7 +386,6 @@ h2 {
     position: absolute;
     transition: transform 1s, opacity 1s;
     transform: scale(0.8);
-    opacity: 0;
 }
 
 .card:first-child {
